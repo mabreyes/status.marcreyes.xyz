@@ -32,6 +32,7 @@ status-website:
   name: Status
   introTitle: "Status is an uptime monitoring for all services deployed by Marc Reyes."
   introMessage: For inquiries, send an e-mail to [webadmin@marcreyes.ph](mailto:webadmin@marcreyes.ph).
+  theme: dark
   navbar:
     - title: Status
       href: /
