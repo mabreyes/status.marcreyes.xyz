@@ -9,6 +9,9 @@ sites:
   - name: Blog (Medium)
     url: https://blog.marcreyes.ph
     icon: https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico
+  - name: Mail (Google Workspace)
+    url: http://mail.marcreyes.ph
+    icon: https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico
   - name: DEV
     url: https://dev.marcreyes.ph
     icon: https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico
