@@ -4,10 +4,10 @@
     "url": "https://marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
@@ -15,7 +15,9 @@
     "timeWeek": 283,
     "timeMonth": 276,
     "timeYear": 273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 1
+    }
   },
   {
     "name": "Blog (Medium)",
@@ -58,9 +60,9 @@
     "url": "https://dev.marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 231,
     "timeMonth": 294,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-13": 0
+    }
   },
   {
     "name": "XYZ",
@@ -102,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 349,
     "timeDay": 507,
-    "timeWeek": 272,
+    "timeWeek": 294,
     "timeMonth": 320,
     "timeYear": 349,
     "dailyMinutesDown": {}
