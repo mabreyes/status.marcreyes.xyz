@@ -24,18 +24,20 @@
     "url": "https://blog.marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "blog-medium",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1348,
-    "timeDay": 1865,
-    "timeWeek": 1397,
-    "timeMonth": 1382,
-    "timeYear": 1348,
-    "dailyMinutesDown": {}
+    "time": 1373,
+    "timeDay": 2142,
+    "timeWeek": 1525,
+    "timeMonth": 1416,
+    "timeYear": 1373,
+    "dailyMinutesDown": {
+      "2021-07-13": 0
+    }
   },
   {
     "name": "Mail (Google Workspace)",
