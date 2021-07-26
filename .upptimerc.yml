@@ -7,10 +7,10 @@ sites:
     url: https://marcreyes.ph
     icon: https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico
   - name: cdn-static-s3
-    url: https://cdn-static-s3.marcreyes.xyz
+    url: https://cdn-static-s3.marcreyes.xyz/liveness.txt
     icon: https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico
   - name: cdn-s3
-    url: https://cdn-s3.marcreyes.xyz
+    url: https://cdn-s3.marcreyes.xyz/liveness.txt
     icon: https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico
   - name: Blog (Medium)
     url: https://blog.marcreyes.ph
