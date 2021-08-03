@@ -60,9 +60,9 @@
     "url": "https://blog.marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "blog-medium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -72,6 +72,7 @@
     "timeMonth": 1549,
     "timeYear": 1456,
     "dailyMinutesDown": {
+      "2021-08-03": 0,
       "2021-07-13": 23
     }
   },
