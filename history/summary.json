@@ -101,9 +101,9 @@
     "url": "https://dev.marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -113,6 +113,7 @@
     "timeMonth": 347,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2021-10-03": 0,
       "2021-07-13": 35
     }
   },
