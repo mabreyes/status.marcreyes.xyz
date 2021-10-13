@@ -139,19 +139,19 @@
     "url": "https://marcrey.es",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "url-shortener-rebrandly",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 398,
-    "timeWeek": 524,
-    "timeMonth": 433,
-    "timeYear": 384,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 382,
+    "timeDay": 260,
+    "timeWeek": 474,
+    "timeMonth": 423,
+    "timeYear": 382,
     "dailyMinutesDown": {
-      "2021-10-13": 0
+      "2021-10-13": 10
     }
   }
 ]
