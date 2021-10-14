@@ -140,18 +140,16 @@
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "url-shortener-rebrandly",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 379,
     "timeDay": 170,
     "timeWeek": 445,
     "timeMonth": 407,
     "timeYear": 379,
-    "dailyMinutesDown": {
-      "2021-10-13": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
