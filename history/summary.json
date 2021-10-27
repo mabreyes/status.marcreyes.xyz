@@ -139,9 +139,9 @@
     "url": "https://marcrey.es",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "url-shortener-rebrandly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.90%",
@@ -151,6 +151,7 @@
     "timeMonth": 379,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2021-10-27": 0,
       "2021-10-21": 20,
       "2021-10-14": 183
     }
