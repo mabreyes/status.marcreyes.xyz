@@ -4,9 +4,9 @@
     "url": "https://marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 205,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-07-13": 35
     }
   },
@@ -101,9 +102,9 @@
     "url": "https://dev.marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -113,6 +114,7 @@
     "timeMonth": 427,
     "timeYear": 311,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-07-13": 35
     }
   },
@@ -121,9 +123,9 @@
     "url": "https://marcreyes.xyz",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,16 +134,18 @@
     "timeWeek": 129,
     "timeMonth": 115,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "URL shortener (Rebrandly)",
     "url": "https://marcrey.es",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "url-shortener-rebrandly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -151,6 +155,7 @@
     "timeMonth": 334,
     "timeYear": 371,
     "dailyMinutesDown": {
+      "2021-11-16": 0,
       "2021-10-27": 25,
       "2021-10-21": 20,
       "2021-10-14": 183
