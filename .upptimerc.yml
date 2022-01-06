@@ -37,7 +37,7 @@ status-website:
   logoUrl: https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/marc-memoji.png
   name: Status
   introTitle: "Status is an uptime monitoring for all services deployed by Marc Reyes."
-  introMessage: For inquiries, send an e-mail to [webadmin@marcreyes.ph](mailto:webadmin@marcreyes.ph).
+  introMessage: For inquiries, send an e-mail to [webadmin@marcreyes.xyz](mailto:webadmin@marcreyes.xyz).
   navbar:
     - title: Status
       href: /
