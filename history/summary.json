@@ -30,18 +30,20 @@
     "url": "https://cdn-static-s3.marcreyes.xyz/liveness.txt",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "cdn-static-s3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 647,
-    "timeDay": 644,
-    "timeWeek": 634,
-    "timeMonth": 623,
-    "timeYear": 647,
-    "dailyMinutesDown": {}
+    "time": 645,
+    "timeDay": 373,
+    "timeWeek": 567,
+    "timeMonth": 606,
+    "timeYear": 645,
+    "dailyMinutesDown": {
+      "2022-05-27": 0
+    }
   },
   {
     "name": "cdn-s3",
