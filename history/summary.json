@@ -4,9 +4,9 @@
     "url": "https://marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 204,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2022-06-08": 0,
       "2022-05-17": 20,
       "2022-04-18": 36,
       "2022-04-05": 26,
@@ -133,7 +134,7 @@
     "timeDay": 573,
     "timeWeek": 895,
     "timeMonth": 859,
-    "timeYear": 455,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2022-06-03": 26,
       "2022-05-02": 29,
