@@ -71,18 +71,19 @@
     "url": "https://blog.marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "blog-medium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "95.76%",
-    "uptimeMonth": "93.83%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "96.02%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "99.49%",
-    "time": 719,
-    "timeDay": 490,
+    "time": 714,
+    "timeDay": 461,
     "timeWeek": 512,
-    "timeMonth": 487,
-    "timeYear": 660,
+    "timeMonth": 486,
+    "timeYear": 659,
     "dailyMinutesDown": {
+      "2023-05-18": 0,
       "2023-05-17": 49,
       "2023-05-16": 16,
       "2023-05-15": 45,
@@ -103,7 +104,7 @@
       "2023-04-27": 91,
       "2023-04-26": 143,
       "2023-04-25": 256,
-      "2023-04-24": 162
+      "2023-04-24": 145
     }
   },
   {
