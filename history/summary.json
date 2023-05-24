@@ -37,7 +37,7 @@
     "time": 757,
     "timeDay": 1183,
     "timeWeek": 1155,
-    "timeMonth": 1088,
+    "timeMonth": 1097,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2022-06-30": 56,
@@ -59,8 +59,8 @@
     "time": 755,
     "timeDay": 1170,
     "timeWeek": 1168,
-    "timeMonth": 1080,
-    "timeYear": 803,
+    "timeMonth": 1089,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2022-06-30": 56,
       "2022-06-21": 23
@@ -71,19 +71,19 @@
     "url": "https://blog.marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "blog-medium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "92.48%",
-    "uptimeWeek": "95.47%",
+    "uptimeDay": "92.53%",
+    "uptimeWeek": "95.48%",
     "uptimeMonth": "94.15%",
     "uptimeYear": "99.51%",
-    "time": 715,
-    "timeDay": 452,
-    "timeWeek": 504,
-    "timeMonth": 491,
-    "timeYear": 642,
+    "time": 710,
+    "timeDay": 424,
+    "timeWeek": 499,
+    "timeMonth": 489,
+    "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-05-24": 108,
+      "2023-05-24": 107,
       "2023-05-22": 67,
       "2023-05-19": 107,
       "2023-05-18": 176,
@@ -122,7 +122,7 @@
     "timeDay": 133,
     "timeWeek": 208,
     "timeMonth": 236,
-    "timeYear": 318,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2022-08-26": 20
     }
@@ -142,7 +142,7 @@
     "timeDay": 199,
     "timeWeek": 287,
     "timeMonth": 353,
-    "timeYear": 614,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2022-12-15": 33,
       "2022-12-14": 17,
@@ -193,7 +193,7 @@
     "timeDay": 246,
     "timeWeek": 252,
     "timeMonth": 278,
-    "timeYear": 330,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2023-03-11": 29,
       "2023-03-10": 9,
