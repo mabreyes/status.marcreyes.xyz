@@ -1,7 +1,7 @@
 url: https://marcrey.es
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2023-11-08T23:12:33.728Z
+status: down
+code: 500
+responseTime: 3200
+lastUpdated: 2023-11-09T01:20:33.673Z
 startTime: 2021-06-08T15:48:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
