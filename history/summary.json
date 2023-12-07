@@ -91,19 +91,19 @@
     "url": "http://mail.marcreyes.ph",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "mail-google-workspace",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.54%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 3152,
-    "timeWeek": 960,
-    "timeMonth": 476,
-    "timeYear": 286,
+    "time": 334,
+    "timeDay": 5986,
+    "timeWeek": 2148,
+    "timeMonth": 826,
+    "timeYear": 317,
     "dailyMinutesDown": {
-      "2023-12-07": 0
+      "2023-12-07": 21
     }
   },
   {
