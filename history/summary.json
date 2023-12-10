@@ -14,7 +14,7 @@
     "timeDay": 82,
     "timeWeek": 133,
     "timeMonth": 166,
-    "timeYear": 209,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2022-12-15": 21
     }
@@ -162,9 +162,9 @@
     "url": "https://marcrey.es",
     "icon": "https://cdn-static-s3.marcreyes.xyz/assets/marcreyesph/images/ico/favicon.ico",
     "slug": "url-shortener-rebrandly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -174,6 +174,7 @@
     "timeMonth": 625,
     "timeYear": 420,
     "dailyMinutesDown": {
+      "2023-12-10": 0,
       "2023-11-09": 42,
       "2023-09-17": 55,
       "2023-06-06": 27,
