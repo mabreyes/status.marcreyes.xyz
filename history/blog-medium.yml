@@ -1,7 +1,7 @@
 url: https://blog.marcreyes.ph
-status: up
-code: 200
-responseTime: 1059
-lastUpdated: 2024-02-29T23:12:53.292Z
+status: down
+code: 429
+responseTime: 31
+lastUpdated: 2024-03-01T08:57:01.791Z
 startTime: 2021-06-08T15:48:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
