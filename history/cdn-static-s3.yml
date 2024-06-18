@@ -1,7 +1,7 @@
 url: https://cdn-static-s3.marcreyes.xyz/liveness.txt
-status: up
-code: 200
-responseTime: 845
-lastUpdated: 2024-06-17T23:14:47.113Z
+status: down
+code: 403
+responseTime: 1068
+lastUpdated: 2024-06-18T21:25:04.693Z
 startTime: 2021-07-26T15:58:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
